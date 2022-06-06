@@ -9,9 +9,15 @@
 
 
 **Google Keep is a note-taking service included as part of the free, web-based Google Docs Editors suite offered by Google. 
+
 The service also includes: Google Docs, Google Sheets, Google Slides, Google Drawings, Google Forms and Google Sites. 
+
 Google Keep is available as a web application as well as mobile app for Android and iOS. 
+
 The app offers a variety of tools for taking notes, including: texts, lists, images and audio. 
+
 Text from images can be extracted using optical character recognition and voice recordings can be transcribed. 
+
 The interface allows for a single-column view or a multi-column view. Notes can be color-coded and labels can be applied for organization. 
+
 Later updates have added functionality to pin notes and to collaborate on notes with other Keep users in real-time.**
